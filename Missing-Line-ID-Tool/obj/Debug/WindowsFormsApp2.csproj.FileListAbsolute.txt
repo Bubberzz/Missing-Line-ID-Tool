@@ -1,0 +1,15 @@
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ExcelDataReader.dll
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ExcelDataReader.xml
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\stan.bubbers\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MissingLineID.resources

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Data" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=Database;Initial Catalog=Database;Integrated Security=True" SettingsObjectName="MissingLineIDTool.Properties.Settings" SettingsPropertyName="MerretTranslatorConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="ReferenceStg.Table" Member="ReferenceStg.Table">
+    <Type Name="MDADiagnostic">
+      <Column Name="MDANumber" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
